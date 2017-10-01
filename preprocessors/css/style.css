@@ -1,0 +1,10 @@
+:css
+  .container {
+    margin: 0 auto;
+    width: 960px;
+  }
+
+:sass
+  .container
+    margin: 0 auto
+    width: 960px
